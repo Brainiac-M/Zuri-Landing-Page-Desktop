@@ -1,0 +1,91 @@
+nav {
+    position: absolute;
+    width: 1440px;
+    height: 122px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.img {
+    position: absolute;
+    width: 195px;
+    height: 46px;
+    left: 120px;
+    top: 38px;
+}
+
+.nav-links .t {
+    position: absolute;
+    width: 40px;
+    height: 19px;
+    top: 52px;
+
+    margin-right: 50px;
+
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration: none;
+    /* identical to box height */
+
+
+    color: #222222;
+}
+
+.home {
+    left: 633px;
+}
+
+.about {
+    left: 723px;
+}
+
+.courses {
+    left: 813px;
+}
+
+.features {
+    left: 917px;
+}
+
+.contact {
+    left: 1024px;
+}
+
+.login {
+    left: 1125px;
+}
+
+.join-us {
+    position: absolute;
+    width: 140px;
+    height: 50px;
+    left: 1180px;
+    top: 39px;
+
+    background: #32A2D1;
+    border-radius: 4px;
+
+}
+
+.join-us button {
+    position: absolute;
+    width: 60px;
+    height: 19px;
+    left: 40px;
+    top: 16px;
+
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    background-color: transparent;
+    border: none;
+    color: #FFFFFF;
+}
+
